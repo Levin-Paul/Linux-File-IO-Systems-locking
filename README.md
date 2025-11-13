@@ -152,11 +152,11 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![Screenshot 2025-05-13 182542](https://github.com/user-attachments/assets/a80083da-a7ed-4692-85b0-811d5602b4e9)
-![Screenshot 2025-05-13 182226](https://github.com/user-attachments/assets/6839b0cc-b35c-4e0e-a1c5-4c3af4a9b89b)
+filecopy 
+<img width="927" height="307" alt="image" src="https://github.com/user-attachments/assets/f2a906e9-a764-48df-ad50-8b2c03958c96" />
 
-
-
+filelocking
+![WhatsApp Image 2025-11-13 at 08 16 38](https://github.com/user-attachments/assets/eb4f6d80-6a93-4610-ae57-a7b86594150d)
 
 # RESULT:
 The programs are executed successfully.
